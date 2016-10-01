@@ -5,12 +5,17 @@ body{
 
 }
 
+
+a {
+	color: #ffa500;
+}
+
 h1 {
     font-size: 3.0em;
     text-align: center;
 	color: #00FFFF;
-	
 }
+
 h2 {
     font-size: 3.0em;
     text-align: center;
