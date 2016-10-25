@@ -32,6 +32,12 @@ h4{
 	color: #00FFFF;
 }
 
+h5{
+	 font-size: 1.0em;
+	text-align: center;
+	color: #00FFFF;
+}
+
 img {
 	display: block;
 	margin: auto;
